@@ -8,5 +8,5 @@ elevenlabs==0.2.27
 logging==0.4.9.6
 asyncio==3.4.3
 elevenlabs==0.2.27
-aiortc==1.15.0
+aiortc
 
