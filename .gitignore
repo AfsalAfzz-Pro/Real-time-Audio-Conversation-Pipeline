@@ -5,3 +5,17 @@ __pycache__
 *.pyd
 *.pyw
 *.pyz
+*.pywz
+*.pyzw
+*.pyzp
+*.pyzpz
+*.pyzpw
+*.pyzpwz
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+.env.test.local
+.env.test.local
+
