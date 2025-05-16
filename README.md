@@ -43,8 +43,7 @@ A high-performance web application demonstrating real-time audio processing and 
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/AfsalAfzz-Pro/Real-time-Audio-Conversation-Pipeline.git
 ```
 
 2. Install dependencies:
